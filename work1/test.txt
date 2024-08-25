@@ -5,3 +5,7 @@ aaaaa
 qqqqq
 qqqqq
 qqqqq
+
+
+
+stage-1で直接書き込んでます
