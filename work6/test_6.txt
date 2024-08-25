@@ -1,1 +1,5 @@
 llllllllllllll
+
+
+
+stage-1で直接書き込む2
